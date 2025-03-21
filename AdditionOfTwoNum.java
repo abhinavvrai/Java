@@ -7,6 +7,6 @@ public class AdditionOfTwoNum{
         System.out.println("Enter the secound number for addition");
         int b = sc.nextInt();
       int sum = a+b;
-      System.out.println(sum);
+      System.out.println("The sum is:" + sum);
     }
 }
